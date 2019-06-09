@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580834068396",
+    "firebase_url": "https://fabric-beta-39d12.firebaseio.com",
+    "project_id": "fabric-beta-39d12",
+    "storage_bucket": "fabric-beta-39d12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580834068396:android:f4d8a31b4fb00734",
+        "android_client_info": {
+          "package_name": "blackstone.com.fabricbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580834068396-puusr5v8n7levn8rlpsitssci77v0dt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfPXLnPc-n9GUhTcDPfUKaOCrBogjWlLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580834068396-puusr5v8n7levn8rlpsitssci77v0dt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
